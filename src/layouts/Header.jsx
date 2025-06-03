@@ -12,7 +12,7 @@ const Header = () => {
             <div className='flex  justify-between items-center gap-[20px] py-[27px] border-[rgba(8,8,8,0.40)] border-b-[1px] relative'>
                 <div>
                 <Image src={logo} className='h-[32px] w-[32px] inline-block ' alt='image' />
-                <span className='text-[#000] text-[24px] font-semibold leading-[24px] pl-2 align-middle'>Redwan</span>
+                <span className='text-[#000] text-[24px] font-semibold leading-[24px] pl-2 align-middle'>Noyon Sheikh</span>
                 </div>
                 <div className='flex justify-center align-middle gap-[20px] absolute right-0'>
                   <div className='flex justify-center items-center gap-2 text-[#080808] cursor-pointer'>

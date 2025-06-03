@@ -41,7 +41,7 @@ const Footer = () => {
                 <div className='px-[28px] py-[36px]'>
                     <h4 className='font-bold text-[20px] leading-[28px]'>Want a more in-depth look at my history?</h4>
                     <div className='flex justify-between items-center pt-[94px] font-bold text-[24px] leading-[32px]'>
-                        <p className='text-[#FFB646]'>+8801521702577</p>
+                        <p className='text-[#FFB646]'>+8801840981650</p>
                         <a href="#"><LuArrowUpRight className='text-[25px]'/></a>
                     </div>
                 </div>
@@ -54,7 +54,7 @@ const Footer = () => {
                         <div className="grid grid-cols-12">
 
                             <div className="col-span-12 sm:col-span-8 order-last sm:order-first">
-                                <p className="text-white text-lg font-normal font-sans leading-7">©2024 Redwan  Labib, All Rights Reserved
+                                <p className="text-white text-lg font-normal font-sans leading-7">©2024 Noyon Sheikh, All Rights Reserved
                                 </p>
                             </div>
                             <div className="col-span-12 sm:col-span-4 order-first sm:order-last">
